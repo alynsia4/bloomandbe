@@ -1,0 +1,32 @@
+body {
+  background-color: #121212;
+  color: #f2f2f2;
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #444;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #e3b7a0;
+}
+
+h2 {
+  color: #c77966;
+}
+
+a {
+  color: #c48c8c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
