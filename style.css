@@ -1,21 +1,20 @@
 body {
+  font-family: 'Crimson Pro', serif;
+  color: #F4F1ED; /* soft ivory text for charcoal bg */
   background-color: #3B3B3B; /* charcoal mist */
-  color: #F6F1EB;            /* warm ivory */
-  font-family: 'Georgia', serif;
   line-height: 1.7;
-  margin: 0;
   padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Gloock', serif;
+  color: #C48C8C; /* dusty rose for headers */
 }
 
 header {
   text-align: center;
   padding-bottom: 2rem;
   border-bottom: 1px solid #625F67;
-}
-
-h1, h2, h3 {
-  color: #C48C8C;  /* muted rose */
-  font-family: 'Playfair Display', serif;
 }
 
 a {
