@@ -1,14 +1,16 @@
 body {
   font-family: 'Crimson Pro', serif;
-  color: #F4F1ED; /* soft ivory text for charcoal bg */
   background-color: #3B3B3B; /* charcoal mist */
+  color: #F4F1ED;
   line-height: 1.7;
   padding: 2rem;
 }
 
 h1, h2, h3 {
-  font-family: 'Gloock', serif;
-  color: #C48C8C; /* dusty rose for headers */
+  font-family: 'Cormorant Garamond', serif;
+  color: #C48C8C; /* dusty rose */
+  letter-spacing: 0.03em;
+  text-transform: lowercase;
 }
 
 header {
